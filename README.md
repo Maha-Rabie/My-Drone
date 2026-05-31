@@ -188,7 +188,3 @@ Forward progress: 1/25
 ```
 
 ---
-
-## License
-
-This project is part of the **My-D** repository. See the root repository for license details.
